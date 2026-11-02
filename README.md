@@ -9,33 +9,33 @@
 
 ### 🌟 Sobre mí
 
-¡Bienvenido/a a mi perfil de GitHub! Soy una apasionada por el mundo de la computación, el desarrollo de software y la resolución de problemas.
+¡Bienvenido/a a mi perfil de GitHub! Soy una apasionada por el mundo de la computación, el desarrollo de software y la resolución de problemas lógicos y algorítmicos.
 
 - 🎓 **Próxima a ingresar a estudiar Ingeniería**.
-- 💡 Siempre aprendiendo, experimentando con nuevas tecnologías y profundizando en algoritmos.
-- 👩‍💻 Participante activa en iniciativas como **Niñas Pro Chile**, promoviendo y fortaleciendo la participación de mujeres en tecnología.
-- 🏆 Participé en la **Olimpiada Chilena de Informática (OCI)**, desarrollando habilidades en programación competitiva y lógica algorítmica.
+- 💡 Siempre aprendiendo, profundizando en algoritmos y explorando nuevas tecnologías.
+- 👩‍💻 Estudiante de programación competitiva en **C++ (niveles básico y avanzado)** en **Niñas Pro Chile**.
+- 🚀 Egresada de **Rocket Girls**, donde certifiqué mis fundamentos en programación con Python.
+- 🏆 Participante en la **Olimpiada Chilena de Informática (OCI)**.
 
 ---
 
-### 📜 Certificaciones & Logros
+### 📜 Certificaciones & Formación
 
-- 🐍 **Python**: Fundamentos, estructuras de datos y desarrollo de proyectos.
-- ⚡ **C++**: Programación orientada a objetos y algoritmos eficientes.
-- 🤖 **Inteligencia Artificial**: Fundamentos de IA y modelos aplicados.
-- 🏅 Participación en la **Olimpiada Chilena de Informática (OCI)**.
-- 💜 Integrante de proyectos y talleres en **Niñas Pro Chile**.
+- 🤖 **Fundamentos de Inteligencia Artificial** — *Certificada por IBM*.
+- 🐍 **Fundamentos de Python** — *Certificada por Rocket Girls*.
+- ⚡ **Programación Competitiva en C++ (Básica y Avanzada)** — *Niñas Pro Chile*.
+- 🏅 **Olimpiada Chilena de Informática (OCI)** — *Participante en competencias algorítmicas*.
 
 ---
 
 ### 🛠️ Tecnologías y Lenguajes
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/IBM%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="IA" />
+  <img src="https://img.relay.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
